@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\api.personas\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|solutionrelative:api.personas\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\api.personas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|solutionrelative:api.personas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\api.personas\\validaciones\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|solutionrelative:api.personas\\validaciones\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\repository\\data\\facturamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|solutionrelative:repository\\data\\facturamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\api.personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|solutionrelative:api.personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|c:\\users\\carlo\\onedrive\\desktop\\parcial 3\\codigo fuente\\api.personas\\validaciones\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\Clientes.csproj|solutionrelative:api.personas\\validaciones\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Program.cs",
+              "RelativeDocumentMoniker": "api.personas\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Program.cs",
+              "RelativeToolTip": "api.personas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:35:18.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "api.personas\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "api.personas\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:32:28.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "api.personas\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "api.personas\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:32:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Validaciones\\ClienteValidator.cs",
+              "RelativeDocumentMoniker": "api.personas\\Validaciones\\ClienteValidator.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Validaciones\\ClienteValidator.cs",
+              "RelativeToolTip": "api.personas\\Validaciones\\ClienteValidator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:26:34.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\Repository\\Data\\FacturaModel.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\FacturaModel.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\Repository\\Data\\FacturaModel.cs",
+              "RelativeToolTip": "Repository\\Data\\FacturaModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:24:18.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Validaciones\\FacturaValidator.cs",
+              "RelativeDocumentMoniker": "api.personas\\Validaciones\\FacturaValidator.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Desktop\\Parcial 3\\Codigo Fuente\\api.personas\\Validaciones\\FacturaValidator.cs",
+              "RelativeToolTip": "api.personas\\Validaciones\\FacturaValidator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:20:55.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
